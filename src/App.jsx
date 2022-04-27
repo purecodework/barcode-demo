@@ -10,7 +10,7 @@ const App = () => {
   }
   return(
     <div className='flex flex-col items-center justify-center'>
-              <h1>Barcode Scanner</h1>
+              <h1>Barcode Scanner demo</h1>
               <div className='text-center h-1/2 w-1/2'>
               <Html5QrcodePlugin 
                 fps={10}
